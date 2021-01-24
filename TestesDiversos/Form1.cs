@@ -84,7 +84,7 @@ namespace DominoV5
         /// <summary>
         /// 
         /// </summary>
-        public void Update()
+        public new void Update()
         {
             labDir.Text = PontoDir;
             labEsq.Text = PontoEsq;

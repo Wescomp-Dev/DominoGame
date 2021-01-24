@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestesDiversos", "TestesDiversos", "{A1D83179-2209-4AA4-86D6-32403F5D40EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominoV5", "DominoV1\DominoV5.csproj", "{EB1E2761-2265-4021-84DB-FB241FD66C27}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominoV5", "TestesDiversos\DominoV5.csproj", "{EB1E2761-2265-4021-84DB-FB241FD66C27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

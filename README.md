@@ -10,6 +10,6 @@
 - [x] Encaixe das peças do domino de acordo com os numeros de cada uma
 - [x] Painel do Jogador 1 criado
 - [ ] Painel do jogador 2 Criado
-- [ ] Versão Alpha Iniciada
+- [x] Versão Alpha Iniciada
 
 Conforme o andamento do projeto, novas informações serão adicionadas  aqui.

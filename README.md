@@ -6,6 +6,7 @@
 
 - [x] Criação das imagens das peças do domino
 - [x] Carregamento em tempo de execução das imagens nas 28 peças do domino 
+- [ ] Mover peça com o clique do mouse sobre ela (Desativado para melhoria)
 - [x] Encaixe das peças do domino de acordo com os numeros de cada uma
 - [x] Painel do Jogador 1 criado
 - [ ] Painel do jogador 2 Criado

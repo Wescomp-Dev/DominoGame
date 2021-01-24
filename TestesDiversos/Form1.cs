@@ -60,7 +60,7 @@ namespace DominoV5
 
 
         Image IMG1;
-        private PictureBox pipi;
+        
 
         public Form1()
         {

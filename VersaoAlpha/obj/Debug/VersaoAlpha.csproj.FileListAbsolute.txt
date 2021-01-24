@@ -1,0 +1,8 @@
+C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\VersaoAlpha\bin\Debug\VersaoAlpha.exe.config
+C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\VersaoAlpha\bin\Debug\VersaoAlpha.exe
+C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\VersaoAlpha\bin\Debug\VersaoAlpha.pdb
+C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\VersaoAlpha\obj\Debug\VersaoAlpha.Properties.Resources.resources
+C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\VersaoAlpha\obj\Debug\VersaoAlpha.csproj.GenerateResource.cache
+C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\VersaoAlpha\obj\Debug\VersaoAlpha.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\VersaoAlpha\obj\Debug\VersaoAlpha.exe
+C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\VersaoAlpha\obj\Debug\VersaoAlpha.pdb

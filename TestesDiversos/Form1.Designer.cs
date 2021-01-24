@@ -174,7 +174,7 @@ namespace DominoV5
             this.lblStatus.Location = new System.Drawing.Point(250, 5);
             this.lblStatus.Name = "lblStatus";
             this.lblStatus.Padding = new System.Windows.Forms.Padding(2);
-            this.lblStatus.Size = new System.Drawing.Size(916, 23);
+            this.lblStatus.Size = new System.Drawing.Size(900, 23);
             this.lblStatus.TabIndex = 18;
             this.lblStatus.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.lblStatus.Visible = false;

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DominoV1", "DominoV1", "{A1D83179-2209-4AA4-86D6-32403F5D40EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominoV5", "DominoV1\DominoV5.csproj", "{EB1E2761-2265-4021-84DB-FB241FD66C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB1E2761-2265-4021-84DB-FB241FD66C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1E2761-2265-4021-84DB-FB241FD66C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1E2761-2265-4021-84DB-FB241FD66C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1E2761-2265-4021-84DB-FB241FD66C27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EB1E2761-2265-4021-84DB-FB241FD66C27} = {A1D83179-2209-4AA4-86D6-32403F5D40EB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23E8EE87-9A59-4E1C-BFE1-63F5B1B2850E}
+	EndGlobalSection
+EndGlobal

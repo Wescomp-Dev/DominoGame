@@ -1,4 +1,4 @@
-## Projeto Teste Domino Game
+# Projeto Teste - Domino Game
 
 ## **Este projeto esta sendo desenvolvido em C# no Visual Studio 2019**
 ### Este  projeto trata-se inicialmente de um teste aonde estão incluso diversos testes para que no final os códigos que ficarem 100% funcionais sejam colocados e organizados no projeto final.

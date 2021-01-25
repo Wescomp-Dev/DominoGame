@@ -6,3 +6,5 @@ C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\VersaoAlpha\obj\Debug\Versao
 C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\VersaoAlpha\obj\Debug\VersaoAlpha.csproj.CoreCompileInputs.cache
 C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\VersaoAlpha\obj\Debug\VersaoAlpha.exe
 C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\VersaoAlpha\obj\Debug\VersaoAlpha.pdb
+C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\VersaoAlpha\obj\Debug\VersaoAlpha.csprojAssemblyReference.cache
+C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\VersaoAlpha\obj\Debug\VersaoAlpha.FrmMain.resources

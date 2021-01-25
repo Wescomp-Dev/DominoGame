@@ -56,3 +56,4 @@ C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\TestesDiversos\obj\Debug\Dom
 C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\TestesDiversos\obj\Debug\DominoV5.application
 C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\TestesDiversos\obj\Debug\DominoV5.exe
 C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\TestesDiversos\obj\Debug\DominoV5.pdb
+C:\Users\wesll\Desktop\MeuRepositoGitHub\DominoGame\TestesDiversos\obj\Debug\DominoV5.csprojAssemblyReference.cache
